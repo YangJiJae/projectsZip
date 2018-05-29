@@ -1,0 +1,9 @@
+elk 스택- 로그분석
+spring boot jooq - 자바코드로 쿼리짬
+spring boot flyway - DB마이그레이션, sql 스크립트 관리
+liquibase - DB 마이그레이션
+spring cloud eureka - app 통합 관리
+spring config server - 설정파일관리
+
+JMS -> spring MS
+Integration
